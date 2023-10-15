@@ -15,9 +15,10 @@
   - https://projectlombok.org/
   - Atalho para Getters / Setters
 
-###### @Data
+###### 
+    @Data
 
-publicclassUserModel{
+    publicclassUserModel{
 
     privateStringusername;
 
@@ -27,7 +28,7 @@ publicclassUserModel{
 
     //getters / setters
 
-}
+    }
 
 * [X] Configuração do Bando de Dados- Instalar as dependencias
 
@@ -54,7 +55,7 @@ publicclassUserModel{
 
 * [X] Validações e ferramentas
 * [X] Try Catch
-* [X] Deploy da Aplicação Spring Boot
+* [X] Deploy da Aplicação Spring Boot coom RENDER
 * [X] Maneiras de Executar a aplicação -
 
   - Executar a aplicação direto no terminal  :  mvn spring-boot:run
