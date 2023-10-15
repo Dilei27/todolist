@@ -55,7 +55,7 @@
 
 * [X] Validações e ferramentas
 * [X] Try Catch
-* [X] Deploy da Aplicação Spring Boot coom RENDER
+* [X] Deploy da Aplicação Spring Boot com RENDER
 * [X] Maneiras de Executar a aplicação -
 
   - Executar a aplicação direto no terminal  :  mvn spring-boot:run
@@ -63,3 +63,7 @@
   * Na pasta JAVA Projects > botão de Debug
 
   - Na pasta TdoListApplication.java > Run
+
+
+
+![1697345099286](image/README/1697345099286.png)
